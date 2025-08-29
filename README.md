@@ -37,16 +37,22 @@ Evaluating profit margins and identifying “Top vs. Flop Stores.”
 -Global Sales Overview  
 -Online Sales vs Retail Performance  
 -Regional Comparison (map & table with conditional formatting)  
--Top vs Flop Stores   
+-Top vs Flop Stores 
+
+# The Data struture
+
+The dataset consisted of seven tables including informations about customer, sales, product, stores, stores country,target,dates. One table was added after crossing and using DAX functions in order to have in depth informations for our future dashboards: we named it Table_Target_Par_Annee_Pays.
+<img width="1262" height="503" alt="image" src="https://github.com/user-attachments/assets/87cb075d-a40d-4a8e-bf54-63ac8d5e77d9" />
+
 
 # Results
 
-The given data was already cleared and organized so our main job was enssentially to produce the differents dashboards and make sure to enhance the most useful insights. 
+The given data was already cleared and organized so our main job was enssentially to produce the differents dashboards and make sure to highlight the most useful insights. 
 To do so, we drew on our knowledge of the Power BI tool and the DAX functions to link and structure the data that would enable us to achieve our objectives listed above. 
 
 Following the dashboards which were produced during this work:
 
-<img width="1216" height="661" alt="image" src="https://github.com/user-attachments/assets/6bf18436-f222-4faf-88fb-246cbb39d915" /> 
+<img width="1216" height="661" alt="image" src="https://github.com/user-attachments/assets/6bf18436-f222-4faf-88fb-246cbb39d915" /></br>
 
 <img width="1204" height="675" alt="image" src="https://github.com/user-attachments/assets/f27cc7f9-79a1-4fd8-9708-54dc93415958" /> 
 # Sales Overview Dashboard
@@ -64,8 +70,8 @@ This dashboard provides a global view of Contoso’s sales performance.
   -->Recommendation: Reallocate shelf space and ad spend towards top brands while redesigning the strategy for underperforming ones.  
 
 - **US and Canada largely drive revenue**, with retail outperforming online → Regional and channel concentration.  
-  -->Recommendation: Expand online penetration in Europe and emerging markets to balance channel dependency.  
-
+  -->Recommendation: Expand online penetration in Europe and emerging markets to balance channel dependency.
+</br>
 
 <img width="1198" height="667" alt="image" src="https://github.com/user-attachments/assets/aa5966db-bc46-4e08-b451-ac20cddf047c" /> 
 # Region Performance Dashboard</br>
@@ -81,6 +87,7 @@ This dashboard provides a regional breakdown of Contoso’s sales and profitabil
 
 - **Desktops** and **Laptops contribute the most to profit**, while smaller categories bring marginal returns.</br>
 -->Recommendation: Maintain desktops/laptops as cash cows but explore high-margin niches (e.g., Smart Phones, Touch Screens) to prepare future growth.</br>
+</br>
 
 <img width="1210" height="670" alt="image" src="https://github.com/user-attachments/assets/d40c9af9-e751-4833-99bb-afbb56a2be38" /> 
 # Top vs Flop Dashboard</br>
@@ -96,6 +103,7 @@ This dashboard focuses on identifying Contoso’s best and worst performing stor
 
 -**Top stores (Northwest Territories, Nunavut) generate up to $0.48bn**, while flops stagnate under $0.3bn.</br>
 -->Recommendation: Close or restructure consistently underperforming locations, and replicate success drivers from top stores.</br>
+</br>
 
 <img width="1210" height="670" alt="image" src="https://github.com/user-attachments/assets/6d2fffa6-6d3d-4fc0-b2cc-1958b8090467" />
 # Performances Dashboard</br>
