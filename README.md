@@ -45,7 +45,7 @@ The dataset consisted of seven tables including informations about customer, sal
 <img width="1262" height="503" alt="image" src="https://github.com/user-attachments/assets/87cb075d-a40d-4a8e-bf54-63ac8d5e77d9" />
 
 
-# Results
+# RESLUTS
 
 The given data was already cleared and organized so our main job was enssentially to produce the differents dashboards and make sure to highlight the most useful insights. 
 To do so, we drew on our knowledge of the Power BI tool and the DAX functions to link and structure the data that would enable us to achieve our objectives listed above. 
